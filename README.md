@@ -119,7 +119,7 @@ Please enter the instruction as following to manage the library:
         7. 'exit': to exit the program.
 ```
 
-## 6. Enter instruction: `Add collection` (Library)
+#### 6. Enter instruction: `Add collection` (Library)
 ```
 Please enter the infomations of collection:
 Name of collection: Agile
@@ -130,7 +130,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-1. Enter instruction: `Add book` (Collection1)
+#### 6-1. Enter instruction: `Add book` (Collection1)
 ```
 Please enter the infomations of books:
 Name of book: Learning Agile: Understanding Scrum, XP, Lean, and Kanban
@@ -144,7 +144,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-2. Enter instruction: `Add collection` (Collection1)
+#### 6-2. Enter instruction: `Add collection` (Collection1)
 ```
 Please enter the infomations of collection:
 Name of collection: Design Patterns
@@ -155,7 +155,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-2-1. Enter instruction: `Add book` (Collection2)
+#### 6-2-1. Enter instruction: `Add book` (Collection2)
 ```
 Please enter the infomations of books:
 Name of book: A Pattern Language: Towns, Buildings, Construction (Hardcover)
@@ -169,7 +169,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-2-2. Enter instruction: `Add book` (Collection2)
+#### 6-2-2. Enter instruction: `Add book` (Collection2)
 ```
 Please enter the infomations of books:
 Name of book: Design Patterns
@@ -183,7 +183,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-2-3. Enter instruction: `exit` (Collection2)
+#### 6-2-3. Enter instruction: `exit` (Collection2)
 ```
 Collection Scrum added
 Please enter the instruction as following to manage the collection:
@@ -192,7 +192,7 @@ Please enter the instruction as following to manage the collection:
         3. 'exit': to exit the process.
 ```
 
-### 6-3. Enter instruction: `exit` (Collection1)
+#### 6-3. Enter instruction: `exit` (Collection1)
 ```
 Collection Agile added
 Please enter the instruction as following to manage the library:
@@ -205,7 +205,7 @@ Please enter the instruction as following to manage the library:
         7. 'exit': to exit the program.
 ```
 
-## 7. Enter instruction: `list all`
+#### 7. Enter instruction: `list all`
 ```
 Book Name: Design Patterns
         Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
